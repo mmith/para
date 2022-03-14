@@ -22,12 +22,12 @@ PATH
       devise (>= 3.0, < 5.0)
       font-awesome-rails (~> 4.7.0)
       font-awesome-sass (~> 4.7.0)
-      friendly_id (~> 5.1)
+      friendly_id (~> 5.1.0)
       haml-rails
       jquery-rails
       kaminari
       paperclip (~> 4.2)
-      pg
+      pg (~> 0.15)
       rails (>= 4.0, <= 6.0)
       rails-i18n
       ransack
