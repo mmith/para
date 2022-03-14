@@ -10,7 +10,7 @@ PATH
   remote: .
   specs:
     para (0.7.2)
-      active_decorator (~> 1.0)
+      active_decorator (~> 1.0.0)
       activejob-status
       bootstrap-sass (~> 3.3.0)
       cancancan (~> 1.9)
